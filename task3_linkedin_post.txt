@@ -26,6 +26,6 @@ As part of my Data Science & Analytics Internship with Future Interns, I complet
 A big thank you to Future Interns for creating practical, real-world data science challenges that connect analytics directly to revenue growth!
 
 Check out the full repository and analysis deliverables here:
-🔗 GitHub: https://github.com/guruveer-singh/FUTURE_DS_01
+🔗 GitHub: https://github.com/guruveer-singh/FUTURE_DS_03
 
 #DataScience #MarketingAnalytics #FunnelAnalysis #ConversionRateOptimization #GrowthAnalytics #SaaS #Python #Excel #FutureInterns #Internship
