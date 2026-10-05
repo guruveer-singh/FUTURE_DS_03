@@ -1,0 +1,31 @@
+🚀 Exciting Milestone: Marketing Funnel & Conversion Performance Analysis (Task 3 with Future Interns) 📊
+
+Driving top-of-funnel traffic is only half the battle. If prospects drop off between initial discovery and final contract execution, customer acquisition costs surge, ad spend efficiency collapses, and revenue leaks out of the business.
+
+As part of my Data Science & Analytics Internship with Future Interns, I completed an in-depth Marketing Funnel & Conversion Performance Analysis evaluating 244,178 inbound website sessions, 15,000 captured leads, and 1,819 closed won customers ($10.87M in pipeline revenue) to diagnose conversion bottlenecks and optimize unit economics.
+
+🔍 Core Questions Answered:
+1️⃣ Where in the funnel are users dropping off, and which stage represents the greatest revenue leak?
+2️⃣ Which acquisition channels deliver high-quality, high-velocity leads vs. vanity traffic?
+3️⃣ What are the true unit economics (CAC, Deal Size, ROAS) across channels?
+4️⃣ What high-impact interventions will maximize pipeline throughput and conversion efficiency?
+
+💡 Key Business Findings & Discoveries:
+📌 The Mid-Funnel Leak: While top-of-funnel capture was healthy (6.14% traffic-to-lead), nearly half of all qualified leads (5,145 accounts / 48.9%) stalled between MQL and SQL before booking a sales demo.
+📌 The Referral Goldmine (91.4x ROAS): Referral and partner channels delivered an astounding 28.0% lead-to-customer conversion at a $78.61 CAC, yet accounted for only 7.8% of lead volume—representing our highest-leverage scaling opportunity.
+📌 Paid Search (Google) Capital Inefficiency: Paid search consumed 38.4% of marketing budget ($218.7K of $569.1K) but delivered the lowest ROAS (8.5x) and an 8.98% lead conversion rate, showing that broad keywords attracted low-intent searchers.
+📌 LinkedIn Enterprise Dominance: Despite a higher CAC ($619.25), LinkedIn Ads drove $3.47M in revenue across 407 won accounts (15.34% conversion) with large $8.5K+ average deal sizes, proving essential for enterprise pipeline generation.
+📌 Lead Velocity Dynamics: Referral leads closed in an average of 34.8 days, whereas complex enterprise accounts required 52.1 days.
+📌 Revenue Leverage: Improving MQL-to-SQL conversion by just +5% injects +$1.05M in incremental revenue without spending an additional dollar on ads!
+
+🛠️ Tools & Deliverables:
+• Microsoft Excel: Engineered an interactive 4-tab dashboard with KPI cards, native charts, full funnel progression matrices, campaign ROI breakdowns, and lead journey data.
+• Python (Pandas, NumPy, Matplotlib, Seaborn): Built end-to-end data processing, multi-channel attribution, and sales velocity tracking.
+• Jupyter Notebook: Fully executed reproducible notebook with embedded plots and statistical tables.
+
+A big thank you to Future Interns for creating practical, real-world data science challenges that connect analytics directly to revenue growth!
+
+Check out the full repository and analysis deliverables here:
+🔗 GitHub: https://github.com/guruveer-singh/FUTURE_DS_01
+
+#DataScience #MarketingAnalytics #FunnelAnalysis #ConversionRateOptimization #GrowthAnalytics #SaaS #Python #Excel #FutureInterns #Internship
